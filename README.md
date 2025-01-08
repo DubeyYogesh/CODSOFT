@@ -1,4 +1,4 @@
-# Machine Learning Models Repository
+# Machine Learning Models Repository (Internship at CodSoft)
 
 This repository contains various machine learning models developed for different tasks, including movie genre classification, customer churn prediction, and spam SMS detection.
 
